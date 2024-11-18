@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  service-account-with-role:
+  - apiVersion: v2
+    appVersion: 0.0.3
+    created: "2024-11-18T15:55:15.069627454Z"
+    description: Kubernetes service account with role assignment
+    digest: 67cc2bf43c320f6b284e290205369b238239664c2505f8ddaa5caa86195c71d6
+    name: service-account-with-role
+    type: application
+    urls:
+    - https://github.com/dkmiller/helm-charts/releases/download/service-account-with-role-0.0.3/service-account-with-role-0.0.3.tgz
+    version: 0.0.3
+generated: "2024-11-18T15:55:15.069646192Z"
